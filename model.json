@@ -46,7 +46,7 @@
     {
       "name": "Float",
       "mro": "M",
-      "description": "<p>a decimal number </p>",
+      "description": "<p>a decimal number</p>",
       "valueSets": "",
       "implementationGuidance": "<p><br></p>",
       "informationType": "Record",
@@ -56,7 +56,7 @@
       "concept": [],
       "relationshipType": "neither",
       "derivedFrom": "",
-      "isComponent": false,
+      "isComponent": true,
       "valueDomain": [
         {
           "type": "CD"
