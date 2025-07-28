@@ -1,6 +1,8 @@
-# WRIST-WRIST_Data_Types 1-build.0.0
+# WRIST Data Types 1.0.0
 
-<p>Simple data types model</p>
+Release Notes:
+
+made simple datatypes
 
 <!-- LATEST_START -->
 * _(TOC will be generated here)_
