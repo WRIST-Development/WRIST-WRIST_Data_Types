@@ -1,8 +1,8 @@
-# WRIST Data Types 1.0.0
+# WRIST Data Types 2-build.0.0
 
 Release Notes:
 
-made simple datatypes
+test
 
 <!-- LATEST_START -->
 * _(TOC will be generated here)_
